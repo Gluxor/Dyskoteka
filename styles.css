@@ -1,0 +1,23 @@
+.square {
+  
+  height: 30%;
+  width: 30%;
+  border:  solid black;
+  font-size: x-large;
+  font-weight: bold;
+  text-transform: uppercase;
+
+}
+
+.grid {
+
+  display: flex;
+  flex-flow: wrap;
+  justify-content: center;
+  align-content: center;
+  height: 45vmin;
+  width: 45vmin;
+}
+
+
+
