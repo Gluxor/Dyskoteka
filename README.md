@@ -1,3 +1,3 @@
-#Dyskoteka v.1 
+Dyskoteka v.01 
 
-Random generated colors in grid squares
+Random generated colors in grid squares.
